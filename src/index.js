@@ -34,3 +34,5 @@ fs.readdir(directory, (err, files) => {
     });
   });
 });
+
+// TODO: agregar logs para probeer informacion al usuario
