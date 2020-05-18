@@ -1,6 +1,6 @@
 {
   "name": "remove-noise-subtitles",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "remove noise in subtitles files",
   "main": "src/index.js",
   "bin": "src/index.js",
